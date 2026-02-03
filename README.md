@@ -1,11 +1,8 @@
 # Self_improvement_system
+
 ## Run locally
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the dev server:
+1. Start the dev server (no dependency install needed):
    ```bash
    npm run dev
    ```
-3. Open the URL shown in your terminal to view the Hello screen.
+2. Visit http://localhost:5173 to view the Hello screen.
